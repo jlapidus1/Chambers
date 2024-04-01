@@ -1,0 +1,7 @@
+ts-node /Users/lapidus/Desktop/Last/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload \
+    -e mainnet-beta \
+    -k ~/.config/solana/mainnet.json \
+    -cp /Users/lapidus/Desktop/Last/metaplex/js/packages/cli/config.json \
+    -c example \
+    /Users/lapidus/Desktop/Last/metaplex/js/packages/cli/assets --rpc-url https://bold-polished-leaf.solana-mainnet.discover.quiknode.pro/18d6a9d55a9279f89b3eac5b139ed877207e2986/
+
